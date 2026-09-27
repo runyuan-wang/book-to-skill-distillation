@@ -170,7 +170,6 @@ China Registered Dietitian
 *Powered by [LingTai](https://github.com/Lingtai-AI/lingtai) — agent-native loop engineering.*
 
 ---
----
 
 ## 📜 许可 · License
 
