@@ -95,7 +95,6 @@ RUNBOOK.md                   # Demand-sensitive sparse/full reading execution ma
 ROUTING.yaml                 # Machine-readable activation hints, budget tiers, triggers
 CACHE.md                     # Cache-friendly layout design (stable prefix + variable suffix)
 RULES.md                     # Ownership, reuse boundaries, content safety
-LICENSE                      # CC BY-NC 4.0 (non-commercial)
 
 scripts/
   setup_distill.py           # Bootstrap: PDF → workspace (TOC + fulltext + catalog)
@@ -154,8 +153,6 @@ This skill is the **成库 (library) layer** for [生万物论](https://github.c
 
 ## License
 
-**CC BY-NC 4.0** — Non-commercial use only.
-
 © 2026 王润圆 (Wang Runyuan) · Kunming Medical University · Master of Nutrition and Food Hygiene
 
 - ✅ Allowed: Share, adapt, learn, research
@@ -173,9 +170,15 @@ China Registered Dietitian
 *Powered by [LingTai](https://github.com/Lingtai-AI/lingtai) — agent-native loop engineering.*
 
 ---
+---
 
-> **禁止抄袭商用，违者等同盗法，因果自负**
-> **Plagiarism and commercial use are strictly prohibited. Violators shall be deemed as thieves of sacred scriptures and shall face divine karmic retribution themselves.**
->
-> 公益开源项目，禁止商用 | Public welfare open-source project, commercial use prohibited
-> License: CC BY-NC 4.0
+## 📜 许可 · License
+
+本项目为公益开源，采用 **MIT 许可证**：
+
+- ✅ **随意使用**：学习、研究、转载、二次创作、**商用也可以** —— 保留原作者署名（王润圆 Runyuan Wang）就好啦 💛
+- 🌱 开源是为了帮助更多的人。
+
+This project is public-welfare open source under the **MIT License** — free for anything, **including commercial use**; just keep the original credit ("Runyuan Wang") 💛
+
+© 2026 王润圆 Runyuan Wang · MIT License
